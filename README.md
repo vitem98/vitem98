@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Xie Jiefeng and I am from Guangzhou, China 
 
 - 🔭 I’m currently working on machine Learning, object detection and agricultural informatization
-- 🌱 I’m currently learning video processing and action detection
+- 🌱 I’m currently learning video processing ，action recognition and temporal action localization
 <!--
 **vitem98/vitem98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
