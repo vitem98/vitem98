@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Xie Jiefeng, I am a graduate student of Zhongkai College of Agricultural Engineering, my research direction is image target detection, video processing and agricultural informatization
 
 <!--
 **vitem98/vitem98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
