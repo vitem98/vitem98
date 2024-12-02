@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Xie Jiefeng and I am from Guangzhou, China 
+### Hi there 👋 My name is Andrew Jeff and I am from Guangzhou, China 
 
 - 🔭 I’m currently working on machine Learning, object detection and agricultural informatization
 - 🌱 I’m currently learning video processing and action recognition.
